@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}
+
+main: template_plugin.Main
+
+api-version: 1.15
