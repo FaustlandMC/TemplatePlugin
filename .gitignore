@@ -1,3 +1,9 @@
+.classpath
+.project
+.settings
+
+# Mavan
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
